@@ -1,0 +1,3 @@
+[submodule "Geolocation-PHP-Service"]
+	path = Geolocation-PHP-Service
+	url = git@github.com:WindowsAzure-Samples/Geolocation-PHP-Service.git
