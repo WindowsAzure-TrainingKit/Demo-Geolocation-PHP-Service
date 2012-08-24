@@ -64,7 +64,7 @@ This demo is composed of the following segments:
 
 1.  Provide an available URL (e.g. geolocation-test), choose to "Create a new MySQL database" and click Next.
 
-	![Details on a new Web Site with a new database](images/createWebSiteOne.png?raw=true "Details on a new Web Site with a new database")
+	![Details on a new Web Site with a new database](images/createWebsiteOne.png?raw=true "Details on a new Web Site with a new database")
 
 	_Details for a new web site with a new database_
 
