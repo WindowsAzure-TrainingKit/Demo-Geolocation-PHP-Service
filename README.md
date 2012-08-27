@@ -10,11 +10,15 @@ In this tutorial, you will look at setting up a PHP website in Windows Azure Web
 
 > **Note:** You can download the latest build of the Windows Azure Training Kit which includes a tested version of this HOL from here: http://bit.ly/WindowsAzureTK.
 
+### Source Code Access ###
+
+Download the [source code](https://github.com/WindowsAzure-Samples/Geolocation-PHP-Service) from GitHub.
+
 ### Repository Structure ###
 
 In the **root** folder of this repository you will find the tutorial document, **Demo.md**. Make sure you have followed any prerequisite steps indicated in the Demo document before proceeding. 
 
-In the **Source** folder you will find the source code of each of the exercises, as well as the assets and setup scripts.
+In the **Source** folder (of the linked source code) you will find the source code of each of the exercises, as well as the assets and setup scripts.
 
 ### Get Started ###
 
