@@ -58,29 +58,29 @@ This demo is composed of the following segments:
 
 1. Click **New | Web Site | Create with Database** on the command bar.
 
-	![Creating a new Web Site with a database ](images/createWithDatabase.png?raw=true "Creating a new Web Site with a database")
+	![Creating a new Web Site with a database ](Images/createWithDatabase.png?raw=true "Creating a new Web Site with a database")
 
 	_Creating a new web site with a database_
 
 1.  Provide an available URL (e.g. geolocation-test), choose to "Create a new MySQL database" and click Next.
 
-	![Details on a new Web Site with a new database](images/createWebsiteOne.png?raw=true "Details on a new Web Site with a new database")
+	![Details on a new Web Site with a new database](Images/createWebsiteOne.png?raw=true "Details on a new Web Site with a new database")
 
 	_Details for a new web site with a new database_
 
 1.  Enter an available name for the database (e.g.  geolocationtest) or accept the default.  Agree to the terms and click the checkmark to continue.
 
-	![Entering database details](images/newDatabase.png?raw=true "Entering database details")
+	![Entering database details](Images/newDatabase.png?raw=true "Entering database details")
 
 	_Entering database details_
 
 1. Once the Web Site is created, click the link under the **URL** column to check that it is working.
 
-	![Browsing to the new web site](images/clickOnWebsite.png?raw=true "Browsing to the new web site")
+	![Browsing to the new web site](Images/clickOnWebsite.png?raw=true "Browsing to the new web site")
 
 	_Browsing to the new web site_
 
-	![Web site running](images/newWebsite.png?raw=true "Web site running")
+	![Web site running](Images/newWebsite.png?raw=true "Web site running")
 
 	_Web site running_
 
@@ -95,7 +95,7 @@ This demo is composed of the following segments:
 
 1. Back to the Windows Azure Management Portal, click your Web Site name, under the **Name** column to access the Dashboard.
 
-	![Accessing the Web Site Dashboard](images/goToDashboard.png?raw=true "Accessing the Web Site Dashboard")
+	![Accessing the Web Site Dashboard](Images/goToDashboard.png?raw=true "Accessing the Web Site Dashboard")
 
 	_Accessing the Web Site Dashboard_
 
@@ -105,13 +105,13 @@ This demo is composed of the following segments:
 
 1. At the dashboard, click on the Configure tab near the top.
 
-	![Accessing the configuration information](images/clickOnConfigure.png?raw=true "Accessing the configuration information")
+	![Accessing the configuration information](Images/clickOnConfigure.png?raw=true "Accessing the configuration information")
 
 	_Accessing the Configuration information_
 
 1. Scroll down until you get to connection strings.  Copy this information for later use.
 
-	![Accessing database configuration details](images/databaseConfigurationInfo.png?raw=true "Accessing database configuration")
+	![Accessing database configuration details](Images/databaseConfigurationInfo.png?raw=true "Accessing database configuration")
 
 	_Accessing database configuration_
 
@@ -154,7 +154,7 @@ CREATE TABLE geodata (
 
 1.  Go to New and select Storage.  Enter an available name (e.g. geostorage).
 
-	![Creating a New Storage Account](images/newStorageOne.png?raw=true "Creating a New Storage Account")
+	![Creating a New Storage Account](Images/newStorageOne.png?raw=true "Creating a New Storage Account")
 
 	_Creating a New Storage Account_
 
@@ -162,13 +162,13 @@ CREATE TABLE geodata (
 
 1.  After your storage account is created, click manage keys at the bottom.
 
-	![Manage Storage Keys](images/storageManageKeys.png?raw=true "Manage Storage Keys")
+	![Manage Storage Keys](Images/storageManageKeys.png?raw=true "Manage Storage Keys")
 
 	_Manage Storage Keys_
 
 1.  Make note of the primary access key.  This along with the name of the storage account will be used later.
 
-	![Storage Keys](images/storageAccessKeys.png?raw=true "Storage Keys")
+	![Storage Keys](Images/storageAccessKeys.png?raw=true "Storage Keys")
 
 	_Storage Keys_
 
@@ -195,7 +195,7 @@ CREATE TABLE geodata (
 
 1. Back to the Windows Azure Management Portal, click your Web Site name, under the **Name** column to access the Dashboard.
 
-	![Accessing the Web Site Dashboard](images/goToDashboard.png?raw=true "Accessing the Web Site Dashboard")
+	![Accessing the Web Site Dashboard](Images/goToDashboard.png?raw=true "Accessing the Web Site Dashboard")
 
 	_Accessing the Web Site Dashboard_
 
@@ -211,11 +211,11 @@ CREATE TABLE geodata (
 
 1. Click **Reset deployment credentials** from the **Quick Glance** section.
 
-	![Resetting Deployment Credentials](images/resetCredentials.png?raw=true "Resetting Deployment Credentials")
+	![Resetting Deployment Credentials](Images/resetCredentials.png?raw=true "Resetting Deployment Credentials")
 
 1. Enter a **User Name** and a **Password**.
 
-	![Setting up GIT Credentials](images/newCredentials.png?raw=true "Setting up GIT Credentials")
+	![Setting up GIT Credentials](Images/newCredentials.png?raw=true "Setting up GIT Credentials")
 
 	_Setting up GIT Credentials_
 
@@ -225,19 +225,19 @@ CREATE TABLE geodata (
 
 1. Click "Setup GIT Publishing" under **Quick Glance** 
 
-	![Setup GIT Publishing](images/setupGitPublishing.png?raw=true "Setup GIT Publishing")
+	![Setup GIT Publishing](Images/setupGitPublishing.png?raw=true "Setup GIT Publishing")
 
 	_Setup GIT Publishing_
 
 1.  After a moment, GIT should be set up and you will see a notification that the GIT repo is ready.
 
-	![Git is ready](images/gitIsReady.png?raw=true "Git is ready")
+	![Git is ready](Images/gitIsReady.png?raw=true "Git is ready")
 
 	_GIT is Ready_
 
 1.  After that image, you will see instructions for commiting your files locally.
 
-	![Local GIT Commit instructions](images/commitLocalFiles.png?raw=true "Local GIT Commit instructions")
+	![Local GIT Commit instructions](Images/commitLocalFiles.png?raw=true "Local GIT Commit instructions")
 
 	_Local GIT commit instructions_
 
@@ -260,7 +260,7 @@ CREATE TABLE geodata (
 
 1.  Return to the portal's GIT instructions.  See the third step to add a remote branch.
 
-	![Adding a remote repository](images/addGitRemote.png?raw=true "Adding a remote repository")
+	![Adding a remote repository](Images/addGitRemote.png?raw=true "Adding a remote repository")
 
 	_Adding a remote repository_
 
@@ -287,13 +287,13 @@ CREATE TABLE geodata (
 
 1.  Return to the site configuration by going to the configuration tab again.  
 
-![Accessing the configuration information](images/clickOnConfigure.png?raw=true "Accessing the configuration information")
+![Accessing the configuration information](Images/clickOnConfigure.png?raw=true "Accessing the configuration information")
 
 	_Accessing the Configuration information_
 
 1. Scroll down until you get to connection strings.  Copy this information for later use.
 
-	![Accessing database configuration details](images/databaseConfigurationInfo.png?raw=true "Accessing database configuration")
+	![Accessing database configuration details](Images/databaseConfigurationInfo.png?raw=true "Accessing database configuration")
 
 	_Accessing database configuration_
 
