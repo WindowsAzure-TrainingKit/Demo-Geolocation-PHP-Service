@@ -14,8 +14,8 @@
 	<Title>Creating a Mobile Geolocation Backend in PHP with Windows Azure Web Sites</Title>
 	<Version>1.0.0</Version>
 	<Source>.\Source</Source>
-	<DependencyChecker>Setup\Dependencies.depi</DependencyChecker>
-	<!--<CustomProperties>
-		<Property Name="GitHubRepository" Value="https://github.com/WindowsAzure-Preview/Demo-Geolocation-PHP-Service" />
-	</CustomProperties>-->
+	<DependencyChecker></DependencyChecker>
+	<CustomProperties>
+		<Property Name="GitHubRepository" Value="https://github.com/WindowsAzure-TrainingKit/Demo-Geolocation-PHP-Service" />
+	</CustomProperties>
 </Demo>
