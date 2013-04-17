@@ -99,9 +99,9 @@ This demo is composed of the following segments:
 
 	_Accessing the Web Site Dashboard_
 
-> **Speaking Point**
->
-> Once we're at the dashboard, we'll go to the configure tab where we can see the configuration information for our database.
+	> **Speaking Point**
+	>
+	> Once we're at the dashboard, we'll go to the configure tab where we can see the configuration information for our database.
 
 1. At the dashboard, click on the Configure tab near the top.
 
@@ -187,11 +187,11 @@ CREATE TABLE geodata (
 
 1.  Place the PHAR file in the following folder structure: /source/vendor/Silex/silex.phar
 
-> **Speaking Point**
->
-> Now let's get our PHP site ready to push to Windows Azure Websites.
->
-> Lets go to the dashboard panel of the Web Site we have just created.
+	> **Speaking Point**
+	>
+	> Now let's get our PHP site ready to push to Windows Azure Websites.
+	>
+	> Lets go to the dashboard panel of the Web Site we have just created.
 
 1. Back to the Windows Azure Management Portal, click your Web Site name, under the **Name** column to access the Dashboard.
 
@@ -254,9 +254,9 @@ CREATE TABLE geodata (
 1.  Commit all of your local changes:
 	`git commit -m "inital commit"`
 
-> **Speaking Point**
->
-> Now that our files have been committed to our local git repo, we can follow the next set of instructions.  
+	> **Speaking Point**
+	>
+	> Now that our files have been committed to our local git repo, we can follow the next set of instructions.  
 
 1.  Return to the portal's GIT instructions.  See the third step to add a remote branch.
 
@@ -287,7 +287,7 @@ CREATE TABLE geodata (
 
 1.  Return to the site configuration by going to the configuration tab again.  
 
-![Accessing the configuration information](Images/clickOnConfigure.png?raw=true "Accessing the configuration information")
+	![Accessing the configuration information](Images/clickOnConfigure.png?raw=true "Accessing the configuration information")
 
 	_Accessing the Configuration information_
 
